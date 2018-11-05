@@ -164,8 +164,8 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
+  <strong>Accessibility:</strong> We are committed to making this workshop accessible to everybody. Please let us know if you have any special requirements so that we can make appropriate arrangements for you.
+  
   The workshop organizers have checked that:
 </p>
 <ul>
