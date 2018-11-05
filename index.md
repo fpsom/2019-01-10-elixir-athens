@@ -46,18 +46,30 @@ eventbrite: 52153548668          # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-<h2 id="sponsors">Sponsors</h2>
-This workshop is funded/supported by ...
+<h2 id="certh">Sponsors</h2>
+This workshop is funded by the ELIXIR project and de.NBI. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
 
 <div class="sponsor-logos">
-  <a href="a url" title="Project logo">
-    <img style="margin-right:50px" alt="Project name" src="fig/file.jpg" width="190"/>
+  <a href="https://www.elixir-europe.org/" title="ELIXIR">
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="190"/>
+  </a>
+  <a href="https://www.denbi.de/" title="de.NBI">
+    <img style="margin-right:50px" alt="de.NBI" src="fig/deNBI-logo.png" width="190"/>
   </a>
 </div>  
 
 Finally, this workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
 <div class="partner-logos">
+  <a href="http://www.bioacademy.gr/" title="Biomedical Research Foundation Academy of Athens, Greece">
+    <img style="margin-right:50px" alt="BRFAA" src="fig/logo-brfaa.jpg" width="190"/>
+    </a>
+  <a href="https://www.embl.de/" title="EMBL, Germany">
+    <img style="margin-right:50px" alt="EMBL" src="fig/EMBL-Logo.png" width="190"/>
+  </a>
+  <a href="https://www.certh.gr" title="CERTH, Greece">
+    <img style="margin-right:50px" alt="CERTH" src="fig/certh.jpg" width="190"/>
+  </a>
   <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
     <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="190"/>
   </a>
