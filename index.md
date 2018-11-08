@@ -47,23 +47,32 @@ eventbrite: 52153548668          # optional: alphanumeric key for Eventbrite reg
 {% endif %}
 
 <h2 id="certh">Sponsors</h2>
-This workshop is funded by the ELIXIR project and de.NBI. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
+This workshop is funded by ELIXIR and de.NBI. The "_ELIXIR-GR: Managing and Analysing Life Sciences Data_" project is co-financed by Greece and the European Union - European Regional Development Fund. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
 
 <div class="sponsor-logos">
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
-    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="190"/>
+    <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
+  </a>
+  <a href="https://elixir.imis.athena-innovation.gr/" title="ELIXIR-GR">
+    <img style="margin-right:50px" alt="ELIXIR-GR" src="fig/ELIXIR-GR-Logo.png" width="120"/>
+  </a>
+  <a href="" title="Funding Institutions">
+    <img style="margin-right:50px" alt="Funders" src="fig/FundersLogos.png" width="400"/>
   </a>
   <a href="https://www.denbi.de/" title="de.NBI">
-    <img style="margin-right:50px" alt="de.NBI" src="fig/deNBI-logo.png" width="190"/>
+    <img style="margin-right:50px" alt="de.NBI" src="fig/deNBI-logo.png" width="120"/>
   </a>
 </div>  
 
 Finally, this workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
 <div class="partner-logos">
+  <a href="https://www.fleming.gr/" title="BSRC "Alexander Fleming"">
+    <img style="margin-right:50px" alt="FlemingGR" src="fig/Fleming-Logo.png" width="190"/>
+  </a>
   <a href="http://www.bioacademy.gr/" title="Biomedical Research Foundation Academy of Athens, Greece">
     <img style="margin-right:50px" alt="BRFAA" src="fig/logo-brfaa.jpg" width="190"/>
-    </a>
+  </a>
   <a href="https://www.embl.de/" title="EMBL, Germany">
     <img style="margin-right:50px" alt="EMBL" src="fig/EMBL-Logo.png" width="190"/>
   </a>
@@ -165,7 +174,7 @@ Finally, this workshop is possible thanks to the collaboration of the following 
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop accessible to everybody. Please let us know if you have any special requirements so that we can make appropriate arrangements for you.
-  
+
   The workshop organizers have checked that:
 </p>
 <ul>
