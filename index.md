@@ -68,19 +68,19 @@ Finally, this workshop is possible thanks to the collaboration of the following 
 
 <div class="partner-logos">
   <a href="https://www.fleming.gr/" title="BSRC Alexander Fleming">
-    <img style="margin-right:50px" alt="FlemingGR" src="fig/Fleming-Logo.png" width="190"/>
+    <img style="margin-right:50px" alt="FlemingGR" src="fig/Fleming-Logo.png" width="150"/>
   </a>
   <a href="http://www.bioacademy.gr/" title="Biomedical Research Foundation Academy of Athens, Greece">
-    <img style="margin-right:50px" alt="BRFAA" src="fig/logo-brfaa.jpg" width="190"/>
+    <img style="margin-right:50px" alt="BRFAA" src="fig/logo-brfaa.jpg" width="150"/>
   </a>
   <a href="https://www.embl.de/" title="EMBL, Germany">
-    <img style="margin-right:50px" alt="EMBL" src="fig/EMBL-Logo.png" width="190"/>
+    <img style="margin-right:50px" alt="EMBL" src="fig/EMBL-Logo.png" width="150"/>
   </a>
   <a href="https://www.certh.gr" title="CERTH, Greece">
-    <img style="margin-right:50px" alt="CERTH" src="fig/certh.jpg" width="190"/>
+    <img style="margin-right:50px" alt="CERTH" src="fig/certh.jpg" width="150"/>
   </a>
   <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
-    <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="190"/>
+    <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="150"/>
   </a>
 </div>
 
