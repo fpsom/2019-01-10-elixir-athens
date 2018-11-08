@@ -67,7 +67,7 @@ This workshop is funded by ELIXIR and de.NBI. The "_ELIXIR-GR: Managing and Anal
 Finally, this workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
 <div class="partner-logos">
-  <a href="https://www.fleming.gr/" title="BSRC \"Alexander Fleming\"">
+  <a href="https://www.fleming.gr/" title="BSRC /"Alexander Fleming/"">
     <img style="margin-right:50px" alt="FlemingGR" src="fig/Fleming-Logo.png" width="190"/>
   </a>
   <a href="http://www.bioacademy.gr/" title="Biomedical Research Foundation Academy of Athens, Greece">
