@@ -233,6 +233,8 @@ Finally, this workshop is possible thanks to the collaboration of the following 
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
+Also, given that this is a workshop supported by ELIXIR, please make sure you complete this [post-workshop ELIXIR survey as well](https://www.surveymonkey.co.uk/r/CTT5QK8).
+
 <hr/>
 
 
