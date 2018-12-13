@@ -82,6 +82,12 @@ Finally, this workshop is possible thanks to the collaboration of the following 
   <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
     <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="150"/>
   </a>
+  <a href="https://www.sheffield.ac.uk/" title="University of Sheffield, UK">
+    <img style="margin-right:50px" alt="TUOS" src="https://github.com/annakrystalli/sedMaps/blob/master/sedmap_shiny/www/tuos_blue_logo.png?raw=true" width="150"/>
+  </a>
+  <a href="https://rse.shef.ac.uk/" title="Sheffield Research Software Engineering, UK">
+    <img style="margin-right:50px" alt="TUoSRSE" src="https://rse.shef.ac.uk/images/rse-sheffield-logo.png" width="150"/>
+  </a>
 </div>
 
 <h2 id="general">General Information</h2>
