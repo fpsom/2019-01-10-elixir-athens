@@ -53,7 +53,7 @@ This workshop is funded by ELIXIR and de.NBI. The "_ELIXIR-GR: Managing and Anal
   <a href="https://www.elixir-europe.org/" title="ELIXIR">
     <img style="margin-right:50px" alt="ELIXIR" src="fig/ELIXIR-logo.png" width="120"/>
   </a>
-  <a href="https://elixir.imis.athena-innovation.gr/" title="ELIXIR-GR">
+  <a href="https://www.elixir-greece.org/" title="ELIXIR-GR">
     <img style="margin-right:50px" alt="ELIXIR-GR" src="fig/ELIXIR-GR-Logo.png" width="120"/>
   </a>
   <a href="" title="Funding Institutions">
